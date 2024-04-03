@@ -1,0 +1,262 @@
+.sathish {
+    background-color: orange;
+    height: 150px;
+    width: 100%;
+
+
+}
+
+.gompa img {
+    float: left;
+    height: 150px;
+    width: 20%;
+
+}
+
+.raji ul li {
+    float: left;
+    display: inline;
+    margin-top: 60px;
+    margin-left: 80px;
+    font-size: 25px;
+
+}
+
+.raji a {
+    text-decoration: none;
+
+}
+
+.raji ul li:hover {
+    transform: scale(1.02);
+    border-top: solid black;
+    border-bottom: solid black;
+   
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hen
+{
+    /* border: 2px solid red; */
+    height: 550px;
+    width: 50%;
+    margin-left: 350px;
+}
+
+.prime img
+{
+    width: 100%;
+}
+
+
+.matter p
+{
+    text-align: center;
+    font-size: 25px ;
+}
+
+.matter
+{
+    /* border: 2px solid red; */
+    height: 250px;
+    width: 80%;
+    margin-left: 160px;
+}
+
+.hen h1
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mine {
+    /* border: 2px groove red; */
+    height: 910px;
+    width: 100%;
+
+}
+
+.mine1 img {
+    height: 900px;
+    width: 50%;
+    float: left;
+    border-radius: 20px;
+    /* border: 2px solid green; */
+}
+
+
+.about {
+    margin-left: 650px;
+    /* border: 3px solid orange; */
+    height: 900px;
+    width: 47%;
+    background: #ffb74a;
+    border-radius: 20px;
+
+}
+
+.about {
+    text-align: center;
+
+}
+
+.about h1 {
+
+    margin-top: 200px;
+    font-size: 60px;
+
+}
+
+.about p {
+    font-size: 25px;
+
+}
+
+
+
+/* anothersection */
+
+
+.last {
+    margin-top: 200px;
+    background: orange;
+    height: 900px;
+    width: 100%;
+    /* border: 5px dotted red; */
+    border-radius: 20px;
+}
+
+
+
+
+.oye img {
+
+    height: 50px;
+    width: 15%;
+}
+
+.oye img {
+    margin-top: 500px;
+
+}
+
+.oye {
+    float: left;
+
+}
+
+.oye input {
+    height: 30px;
+    width: 80%;
+
+}
+
+.hloo {
+
+    float: left;
+
+}
+
+
+.oye li {
+    list-style: none;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 20px;
+
+
+}
+
+.oye h3 {
+    margin-left: 100px;
+    font-size: 25px;
+}
+
+
+
+.hloo li {
+    margin-left: 150px;
+    font-size: 20px;
+    margin-top: 40px;
+
+}
+
+.oye li:hover {
+    transform: scale(0.99);
+
+}
+
+.hloo h3 {
+    margin-left: 150px;
+    font-size: 25px;
+
+}
+
+
+.oye h1 {
+    margin-left: 20px;
+
+}
+
+.oye input {
+    margin-left: 20px;
+
+}
+
+.oye a {
+    margin-left: 20px;
+}
+
+.oye p {
+
+    margin-left: 20px;
+}
+
+
+
+

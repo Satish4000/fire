@@ -1,0 +1,278 @@
+
+
+
+
+.sathish {
+    background-color: orange;
+    height: 150px;
+    width: 100%;
+
+
+}
+
+.gompa img {
+    float: left;
+    height: 150px;
+    width: 20%;
+
+}
+
+.raji ul li {
+    float: left;
+    display: inline;
+    margin-top: 60px;
+    margin-left: 80px;
+    font-size: 25px;
+
+}
+
+.raji a {
+    text-decoration: none;
+
+}
+
+.raji ul li:hover {
+    transform: scale(1.02);
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+
+}
+
+
+
+/* sectionnnnnnnnnnnnnnnnnnnnnnnnn */
+
+
+.s img {
+    height: 240px;
+    width: 100%;
+
+}
+
+.s button
+{
+    border-radius: 10px ;
+}
+
+.s {
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.go {
+    margin-top: 20px;
+    /* border: solid green; */
+    height: 1250px;
+    width: 100%;
+
+}
+
+.s p
+{
+    font-size: 20px;
+    color: rgb(155, 5, 5);
+}
+
+
+.s button:hover {
+    transform: scale(0.99);
+    background-color: transparent;
+    color: blue;
+
+}
+
+.s {
+    border: 2px solid orange;
+    height: 400px;
+    box-shadow: grey 10px 10px;
+    border-radius: 20px 20px;
+    background: orange;
+
+}
+
+.s img {
+    border-radius: 15px 15px;
+
+}
+
+.s span
+{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.boy h1
+{
+    color: black;
+    font-size: 70px;
+    text-align: center;
+}
+
+.s img {
+    height: 240px;
+    width: 100%;
+
+}
+
+.s {
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.go {
+    margin-top: 20px;
+    /* border: solid green; */
+    height: 1250px;
+    width: 100%;
+
+}
+
+
+
+.s :hover {
+    transform: scale(0.99);
+
+}
+
+.s {
+    border: 2px solid orange;
+    height: 380px;
+    box-shadow: grey 10px 10px;
+    border-radius: 20px 20px;
+    background: orange;
+
+}
+
+.s img {
+    border-radius: 15px 15px;
+
+}
+
+
+
+
+/* footersection222222222222222222222222222222222 */
+.last {
+    margin-top: 200px;
+    background: orange;
+    height: 900px;
+    width: 100%;
+    /* border: 5px dotted red; */
+    border-radius: 20px;
+}
+
+
+
+
+.oye img {
+
+    height: 50px;
+    width: 15%;
+}
+
+.oye img {
+    margin-top: 500px;
+
+}
+
+.oye {
+    float: left;
+
+}
+
+.oye input {
+    height: 30px;
+    width: 80%;
+
+}
+
+.hloo {
+
+    float: left;
+
+}
+
+
+.oye li {
+    list-style: none;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 20px;
+
+
+}
+
+.oye h3 {
+    margin-left: 100px;
+    font-size: 25px;
+}
+
+
+
+.hloo li {
+    margin-left: 150px;
+    font-size: 20px;
+    margin-top: 40px;
+
+}
+
+.oye li:hover {
+    transform: scale(0.99);
+
+}
+
+.hloo h3 {
+    margin-left: 150px;
+    font-size: 25px;
+
+}
+
+
+.oye h1 {
+    margin-left: 20px;
+
+}
+
+.oye input {
+    margin-left: 20px;
+
+}
+
+.oye a {
+    margin-left: 20px;
+}
+
+.oye p {
+
+    margin-left: 20px;
+}
